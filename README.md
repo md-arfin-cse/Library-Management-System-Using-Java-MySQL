@@ -1,4 +1,4 @@
-# Library Management System Project in Java [Comprehensive Guide]
+# Library Management System Project in Java 
 
 Library Management Systems are a great way to monitor books, add them, update information in it, search for the suitable one, issue it, and return it when needed. This Library Management System Project is developed in Java, to provide all the features that a Library Management System should usually have and overcome the drawbacks of the present system such as:
 •	Paper-based record keeping.
